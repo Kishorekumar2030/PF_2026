@@ -55,6 +55,7 @@
 
 **Q#10**
 
-<img width="887" height="451" alt="image" src="https://github.com/user-attachments/assets/ab6e513c-5ad8-4bf0-8baa-cef1115271e5" />
+<img width="913" height="452" alt="image" src="https://github.com/user-attachments/assets/8f9b2f69-e603-4d42-937f-121bd322b36e" />
+
 
 
