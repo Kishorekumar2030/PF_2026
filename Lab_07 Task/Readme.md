@@ -17,3 +17,5 @@
 **Task 05**
 
 <img width="200" height="431" alt="Q-5" src="https://github.com/user-attachments/assets/2a81501e-a85f-4daa-add1-4ce098a08dc9" />
+
+<img width="894" height="710" alt="image" src="https://github.com/user-attachments/assets/385795e5-22ac-4fff-8e63-9fb6ebe976c4" />
